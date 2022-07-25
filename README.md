@@ -1,5 +1,5 @@
 # Wine-Quality-Predictor
-A Logistic regression model to predict whether a particular red wine is “good quality” or not. Each wine in this dataset is given a “quality” score between 0 and 10. I have converted the output to a binary output where each wine is either “good quality” (a score of 7 or higher) or not (a score below 7). The quality of a wine is determined by 11 input variables:
+Different classifier models were used to predict whether a particular red wine is “good quality” or not. Each wine in this dataset is given a “quality” score between 0 and 10. I have converted the output to a binary output where each wine is either “good quality” (a score of 7 or higher) or not (a score below 7). The quality of a wine is determined by 11 input variables:
 
     1 - Fixed acidity
     2 - Volatile acidity
@@ -19,7 +19,7 @@ Output variable (based on sensory data):
 
 Objectives:
 
-The objectives of this project are as follows
+The objectives of this project are as follows:
 
-1. To experiment with different classification methods to see which yields the highest accuracy
-2. To determine which features are the most indicative of a good quality wine
+1. To experiment with different classification methods to see which yields the highest accuracy. 
+2. To determine which features are the most indicative of a good quality wine.
